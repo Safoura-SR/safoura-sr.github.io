@@ -135,15 +135,11 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-            Hello, My name is Safoura Sadeghi Ronizi. 
-            I'm a mechanical engineer that enjoys addressing challenging,
-            real-world engineering challenges in novel ways utilizing my
-            talents and technology. I've always been fascinated to 
-            pushing the limits of what's possible and devising novel
-            solutions to problems. I am excited to work with those
-            that share my passion and ambition to make a great 
-            difference in the world.
+            <p>          
+              Hello, My name is Safoura Sadeghi Ronizi. I'm a mechanical engineer that appreciates tackling difficult,
+              real-world engineering challenges in creative ways by combining my skills and technology. I've always
+              been interested by pushing the boundaries of what is possible and developing unique solutions to issues.
+               I am delighted to collaborate with those that share my passion and goal to make a significant change in the world.
             </p>
 
             <p>
