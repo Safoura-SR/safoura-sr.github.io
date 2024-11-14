@@ -69,7 +69,9 @@ const Certificate = () => {
       <p>
         ✓  {' '} <a href="https://certificates.cs50.io/1742ba9e-d101-445d-893a-0485729b578a.pdf?size=letter"> CS50ai</a>, Harvard University.
       </p>
-
+      <p>
+        ✓  {' '} <a href=""> Piping</a>, Falat Ghareh Technical Institute is loading ...
+      </p>
     </StyledContactSection>
   );
 };
