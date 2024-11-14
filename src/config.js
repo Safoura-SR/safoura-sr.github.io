@@ -4,7 +4,7 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/sfrza',
+      url: 'https://github.com/Safoura-sr',
     },
 
 
@@ -39,10 +39,6 @@ module.exports = {
     {
       name: 'Certificate',
       url: '/#certificate',
-    },
-    {
-      name: 'V. & H.',
-      url: '/#experi',
     },
     {
       name: 'Contact',
