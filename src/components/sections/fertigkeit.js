@@ -129,7 +129,7 @@ const Fertigkeit = () => {
 
   
   return (
-    <StyledAboutSection id="fertigkeit" ref={revealContainer}>
+    <StyledAboutSection id="skills" ref={revealContainer}>
       <h2 className="numbered-heading">Skills Summary</h2>
 
       <div className="title">
