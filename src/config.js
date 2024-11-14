@@ -29,7 +29,7 @@ module.exports = {
     },
     {
       name: 'Skill',
-      url: '/#Skills',
+      url: '/#skills',
     },
     {
       name: 'Project',
