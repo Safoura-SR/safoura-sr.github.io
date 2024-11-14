@@ -243,7 +243,7 @@ const Forschung = () => {
   };
 
   return (
-    <StyledJobsSection id="forschung" ref={revealContainer}>
+    <StyledJobsSection id="researches" ref={revealContainer}>
       <h2 className="numbered-heading">My Researches</h2>
 
       <div className="inner">

@@ -54,7 +54,7 @@ const Certificate = () => {
   }, []);
 
   return (
-    <StyledContactSection id="certificate" ref={revealContainer}>
+    <StyledContactSection id="certificates" ref={revealContainer}>
       <h2 className="numbered-heading">My Certificate </h2>
 
       <p>

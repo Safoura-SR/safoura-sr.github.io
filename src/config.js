@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       name: 'Research',
-      url: '/#forschung',
+      url: '/#researches',
     },
     {
       name: 'Work',
@@ -29,19 +29,19 @@ module.exports = {
     },
     {
       name: 'Skill',
-      url: '/#fertigkeit',
+      url: '/#Skills',
     },
     {
       name: 'Project',
-      url: '/#featured',
+      url: '/#projects',
     },
     {
       name: 'Certificate',
-      url: '/#certificate',
+      url: '/#certificates',
     },
     {
       name: 'V & H',
-      url: '/#experi',
+      url: '/#volunteer&honors',
     },
     {
       name: 'Contact',

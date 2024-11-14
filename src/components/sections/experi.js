@@ -54,7 +54,7 @@ const Experi = () => {
   }, []);
 
   return (
-    <StyledContactSection id="experi" ref={revealContainer}>
+    <StyledContactSection id="volunteer&honors" ref={revealContainer}>
       <h2 className="numbered-heading">My Volunteer Experience & Honors </h2>
       <div className="inner">
       <p>
