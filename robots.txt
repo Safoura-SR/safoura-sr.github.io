@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://safoura-sr.github.io/sitemap-index.xml
+Host: https://safoura-sr.github.io
