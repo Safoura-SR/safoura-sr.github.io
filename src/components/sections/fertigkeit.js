@@ -125,7 +125,7 @@ const Fertigkeit = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Farsi(Native)','English(Proficient)', 'German(Fluent)','Japanese(Conversational)',, 'Spanish, Dutch, Russian are loading ...' ]; 
+  const skills = ['Farsi(Native)','English(Proficient)', 'German(Fluent)','Japanese(Conversational)',, 'Spanish, Dutch, and Russian are loading ...' ]; 
 
   
   return (
