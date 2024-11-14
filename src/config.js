@@ -40,6 +40,10 @@ module.exports = {
       url: '/#certificate',
     },
     {
+      name: 'V & H',
+      url: '/#experi',
+    },
+    {
       name: 'Contact',
       url: '/#contact',
     },
