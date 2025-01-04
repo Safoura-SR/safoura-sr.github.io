@@ -141,7 +141,7 @@ const Fertigkeit = () => {
             <p> ✓  Subroutine:    UMAT, UEL, Dload</p>
           </div>
           <div>                   
-            <p> ✓  Tools:         Solidworks, AutoCAD, Abaqus, GIT, Comsol, Ansys, Proteus, Simulink, SAM</p>
+            <p> ✓  Tools:         Solidworks, AutoCAD, Abaqus, GIT, Comsol, Ansys, Proteus, Simulink, SAM, PV-Elite</p>
           </div>
           <div>                   
             <p> ✓  Soft Skills:   Critical thinking, Systematic thinking, Project management, Problem Solvin</p>
