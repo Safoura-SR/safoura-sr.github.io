@@ -138,7 +138,7 @@ const Fertigkeit = () => {
             <p> ✓  Programming:   Python, Matlab, Fortran, C, C++</p>
           </div>
           <div>                   
-            <p> ✓  Subroutine:    UMAT, UEL, Dload</p>
+            <p> ✓  Subroutine:    UMAT, UEL, DLoad</p>
           </div>
           <div>                   
             <p> ✓  Tools:         Solidworks, AutoCAD, Abaqus, GIT, Comsol, Ansys, Proteus, Simulink, SAM, PV-Elite</p>
